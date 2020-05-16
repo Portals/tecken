@@ -45,6 +45,13 @@ window.addEventListener('load', (event) => {
 
 const tecken = [
     {
+        title: "Student",
+        date: "Lördagen den 17:e Maj, 2020",
+        description: "Hållhanden, framåtriktad och vänstervänd, förs kort inåt mot pannan samtidigt som den slås uppåt",
+        link: "https://teckensprakslexikon.su.se/ord/03770",
+        video: "https://teckensprakslexikon.su.se/movies/03/student-03770-tecken.mp4"
+    },
+    {
         title: "Fågel",
         date: "Lördagen den 10:e Maj, 2020",
         description: "Raka måtthanden, uppåtriktad och framåtvänd, förändras till nyphand ett par gånger med bibehållen kontakt med munnen",
