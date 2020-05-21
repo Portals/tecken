@@ -45,6 +45,20 @@ window.addEventListener('load', (event) => {
 
 const tecken = [
     {
+        title: "Hålla tyst",
+        date: "Torsdagen den 22:e Maj, 2020",
+        description: "Hållhanden, uppåtriktad och vänstervänd, vrids inåt med bibehållen kontakt med munnen",
+        link: "https://teckensprakslexikon.su.se/ord/03796",
+        video: "https://teckensprakslexikon.su.se/movies/03/halla-tyst-03796-tecken.mp4"
+    },
+    {
+        title: "Tyst",
+        date: "Torsdagen den 22:e Maj, 2020",
+        description: "Pekfingret, uppåtriktat och vänstervänt, kontakt med munnen",
+        link: "https://teckensprakslexikon.su.se/ord/01867",
+        video: "https://teckensprakslexikon.su.se/movies/01/tyst-01867-tecken.mp4"
+    },
+    {
         title: "Student",
         date: "Lördagen den 17:e Maj, 2020",
         description: "Hållhanden, framåtriktad och vänstervänd, förs kort inåt mot pannan samtidigt som den slås uppåt",
