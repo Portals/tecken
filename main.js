@@ -45,29 +45,36 @@ window.addEventListener('load', (event) => {
 
 const tecken = [
     {
+        title: "Tälta/Tält",
+        date: "Fredagen den 22:e Maj, 2020",
+        description: "Flata händer, framåtriktade och nedåtvända, vinkelkontakt, förs sedan från varandra och nedåt",
+        link: "https://teckensprakslexikon.su.se/ord/00694",
+        video: "https://teckensprakslexikon.su.se/movies/00/talta-00694-tecken.mp4"
+    },
+    {
         title: "Hålla tyst",
-        date: "Torsdagen den 22:e Maj, 2020",
+        date: "Torsdagen den 21:e Maj, 2020",
         description: "Hållhanden, uppåtriktad och vänstervänd, vrids inåt med bibehållen kontakt med munnen",
         link: "https://teckensprakslexikon.su.se/ord/03796",
         video: "https://teckensprakslexikon.su.se/movies/03/halla-tyst-03796-tecken.mp4"
     },
     {
         title: "Tyst",
-        date: "Torsdagen den 22:e Maj, 2020",
+        date: "Torsdagen den 21:e Maj, 2020",
         description: "Pekfingret, uppåtriktat och vänstervänt, kontakt med munnen",
         link: "https://teckensprakslexikon.su.se/ord/01867",
         video: "https://teckensprakslexikon.su.se/movies/01/tyst-01867-tecken.mp4"
     },
     {
         title: "Student",
-        date: "Lördagen den 17:e Maj, 2020",
+        date: "Lördagen den 16:e Maj, 2020",
         description: "Hållhanden, framåtriktad och vänstervänd, förs kort inåt mot pannan samtidigt som den slås uppåt",
         link: "https://teckensprakslexikon.su.se/ord/03770",
         video: "https://teckensprakslexikon.su.se/movies/03/student-03770-tecken.mp4"
     },
     {
         title: "Fågel",
-        date: "Lördagen den 10:e Maj, 2020",
+        date: "Lördagen den 9:e Maj, 2020",
         description: "Raka måtthanden, uppåtriktad och framåtvänd, förändras till nyphand ett par gånger med bibehållen kontakt med munnen",
         link: "https://teckensprakslexikon.su.se/ord/03275",
         video: "https://teckensprakslexikon.su.se/movies/03/fagel-03275-tecken.mp4"
