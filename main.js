@@ -45,6 +45,13 @@ window.addEventListener('load', (event) => {
 
 const tecken = [
     {
+        title: "Dejt",
+        date: "Fredagen den 29:e Maj, 2020",
+        description: "Pekfingrar, uppåtriktade och vända mot varandra, upprepade kontakter bredvid varandra",
+        link: "https://teckensprakslexikon.su.se/ord/07291",
+        video: "https://teckensprakslexikon.su.se/movies/07/date-07291-tecken.mp4"
+    },
+    {
         title: "Tälta/Tält",
         date: "Fredagen den 22:e Maj, 2020",
         description: "Flata händer, framåtriktade och nedåtvända, vinkelkontakt, förs sedan från varandra och nedåt",
