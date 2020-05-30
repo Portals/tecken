@@ -45,6 +45,13 @@ window.addEventListener('load', (event) => {
 
 const tecken = [
     {
+        title: "Panik",
+        date: "Lördagen den 30:e Maj, 2020",
+        description: "Knutna händer, uppåtriktade och den vänstra inåtvänd och den högra framåtvänd, förs fram och in växelvis ett par gånger samtidigt som de vrids fram och in framför övre delen av ansiktet",
+        link: "https://teckensprakslexikon.su.se/ord/09968",
+        video: "https://teckensprakslexikon.su.se/movies/09/panik-09968-tecken.mp4"
+    },
+    {
         title: "Dejt",
         date: "Fredagen den 29:e Maj, 2020",
         description: "Pekfingrar, uppåtriktade och vända mot varandra, upprepade kontakter bredvid varandra",
