@@ -45,6 +45,13 @@ window.addEventListener('load', (event) => {
 
 const tecken = [
     {
+        title: "Shoppa",
+        date: "Måndagen den 2:e Juni, 2020",
+        description: "Tumhänder, nedåtriktade och inåtvända, förs kort nedåt, upprepas",
+        link: "https://teckensprakslexikon.su.se/ord/08883",
+        video: "https://teckensprakslexikon.su.se/movies/08/shoppa-08883-tecken.mp4"
+    },
+    {
         title: "Panik",
         date: "Lördagen den 30:e Maj, 2020",
         description: "Knutna händer, uppåtriktade och den vänstra inåtvänd och den högra framåtvänd, förs fram och in växelvis ett par gånger samtidigt som de vrids fram och in framför övre delen av ansiktet",
