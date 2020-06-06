@@ -45,6 +45,13 @@ window.addEventListener('load', (event) => {
 
 const tecken = [
     {
+        title: "Popcorn",
+        date: "Fredagen den 5:e Juni, 2020",
+        description: "O-händer, framåtriktade och uppåtvända, förs kort uppåt växelvis samtidigt som de förändras till klohänder, upprepas",
+        link: "https://teckensprakslexikon.su.se/ord/09662",
+        video: "https://teckensprakslexikon.su.se/movies/09/popcorn-09662-tecken.mp4"
+    },
+    {
         title: "Shoppa",
         date: "Måndagen den 2:e Juni, 2020",
         description: "Tumhänder, nedåtriktade och inåtvända, förs kort nedåt, upprepas",
