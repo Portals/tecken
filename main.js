@@ -45,6 +45,13 @@ window.addEventListener('load', (event) => {
 
 const tecken = [
     {
+        title: "Sova",
+        date: "Fredagen den 19:e Juni, 2020",
+        description: "Flata handen, uppåtriktad och vänstervänd, kontakt med kinden (huvudet lutar lite åt höger),
+        link: "https://teckensprakslexikon.su.se/ord/00049",
+        video: "https://teckensprakslexikon.su.se/movies/00/sova-00049-tecken.mp4"
+    },
+    {
         title: "Popcorn",
         date: "Fredagen den 5:e Juni, 2020",
         description: "O-händer, framåtriktade och uppåtvända, förs kort uppåt växelvis samtidigt som de förändras till klohänder, upprepas",
